@@ -82,7 +82,7 @@ This graph helps identify any trends or patterns in academic performance based o
 - **Jupyter Notebook** (or any compatible environment)
 
 ### How to Run:
-1. **Download** the `Experiment.4.PA4.Leynes.ipynb` file and `board2.xlsx` dataset into a directory.
+1. **Download** the `ECE2112.PA.4.datawrangling.datavisualization` file and `board2.xlsx` dataset into a directory.
 2. Open a terminal and run:
    jupyter notebook
 
