@@ -1,6 +1,6 @@
 # 💽 Experiment 4: Data Wrangling & Visualization with Pandas (PA4)
 
-Welcome to **Experiment 4** in **Data Wrangling and Visualization**! This notebook (`Experiment.4.PA4.Leynes.ipynb`) is designed to enhance your data manipulation skills with **Pandas** while diving into **data visualization** techniques. You will work with a dataset (`board2.xlsx`) to wrangle, clean, and visualize the data, providing deeper insights.
+Welcome to **Experiment 4** in **Data Wrangling and Visualization**! This notebook (`ECE2112.PA.4.datawrangling.datavisualization`) is designed to enhance your data manipulation skills with **Pandas** while diving into **data visualization** techniques. You will work with a dataset (`board2.xlsx`) to wrangle, clean, and visualize the data, providing deeper insights.
 
 ---
 
