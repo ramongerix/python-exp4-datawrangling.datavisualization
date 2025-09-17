@@ -6,7 +6,7 @@ Welcome to **Experiment 4** in **Data Wrangling and Visualization**! This notebo
 
 ## ✨ Project Contents
 
-### 1️⃣ **Experiment.4.PA4.Leynes.ipynb**
+### 1️⃣ **ECE2112.PA.4.datawrangling.datavisualization**
 
 This notebook focuses on advanced **Data Wrangling** and **Data Visualization** techniques using **Pandas** and **Matplotlib**.
 
