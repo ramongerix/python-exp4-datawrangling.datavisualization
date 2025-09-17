@@ -86,9 +86,6 @@ This graph helps identify any trends or patterns in academic performance based o
 2. Open a terminal and run:
    jupyter notebook
 
-### Downloadables:
-1. https://github.com/ramongerix/ECE2112-EX4/blob/main/Experiment.4.PA4.Leynes.ipynb
-2. https://github.com/ramongerix/ECE2112-EX4/blob/main/board2.xlsx
 
 📫 **Need Help?** Feel free to reach out for any questions or clarifications!
 ### Author's Information
